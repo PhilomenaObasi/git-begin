@@ -1,4 +1,4 @@
-# my_world
+# my-hello-world
 This is me creating my hello-world git repo on github
 
 Proper introduction time.. 
